@@ -1,0 +1,4 @@
+image_id,company,model,prompt,generation_platform,generation_date,settings,variation_notes,image_filename
+IMG_1,OpenAI,GPT Image 1,01_Prompts/master_prompt.md,ChatGPT,2026-09-12,,,"ChatGPT Image Sep 12, 2026, 03_22_10 PM.png"
+IMG_2,Google,Gemini 2.5 Flash Image,01_Prompts/master_prompt.md,Google AI Studio,2026-09-12,,,"Generated Image September 12, 2026 - 5_07PM.png"
+IMG_3,Google,Gemini 3.1 Flash Image Preview,01_Prompts/master_prompt.md,Google AI Studio (gemini-3.1-flash-image),2026-09-12,,,"Generated Image September 12, 2026 - 5_10PM.jpg"
